@@ -197,6 +197,7 @@ class ReactPoll(commands.Cog):
         await ctx.send(f"Reaction poll embeds turned {verb}.")
 
     @commands.group()
+    @commands.has_any_role('Developer', 'Corporal', 'Corporal I', 'Corporal II', 'Corporal III', 'Corporal IV', 'Lieutenant', 'Lieutenant I', 'Lieutenant II', 'Lieutenant III', 'Lieutenant IV', 'Lieutenant V', 'Subcommander', 'Commander', '91AR Subcommander', '91AR Commander')
     @commands.guild_only()
     async def rpoll(self, ctx: commands.Context):
         """Commands for setting up reaction polls"""
