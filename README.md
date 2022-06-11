@@ -2,9 +2,7 @@
 
 &nbsp;
 
-![FlapJack Cogs](https://raw.githubusercontent.com/ptoast/freecodecamp/master/portfolio/img/flapjackcogs_sm.png "FlapJack Cogs")
-
-A collection of cogs I have developed for Red Bot.  
+A collection of cogs FlapJack has developed for Red Bot.  THIS IS BJPICKLES JUST MESSING AROUND WITH THINGS. PLEASE CONSIDER THIS VERSION OF THIS REPO DEPRECATED!
 
 - **Bigmoji** - Uploads a large .png image of an emoji.
 - **ColorMe** - Allows users to manage the color of their own name through custom roles with default permissions.
